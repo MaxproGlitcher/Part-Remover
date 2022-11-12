@@ -8,5 +8,6 @@ Part Deletor is a open-source Roblox exploit that allows players to delete any b
 4) Press "X" on a keyboard.
 
 Unfortunately, mobile devices are not supported for this exploit.
-Version: V1.0
-Source code: https://pastebin.com/raw/sthXfBdm
+
+# Source code:
+https://pastebin.com/raw/sthXfBdm

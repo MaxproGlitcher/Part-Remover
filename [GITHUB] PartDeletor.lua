@@ -1,4 +1,6 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/kreekman/Part-Deletor/main/RAW%20PartDeletor.lua"))()
+local success, errormessage = pcall(function()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/kreekman/Part-Deletor/main/RAW%20PartDeletor.lua"))()		
+end)
 -- re-install the script if it doesn't work from the GitHub: https://github.com/kreekman/Part-Deletor
 
 

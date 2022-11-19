@@ -1,4 +1,6 @@
-loadstring(game:HttpGet("https://pastebin.com/raw/sthXfBdm"))()
+local success, errormessage = pcall(function()
+	loadstring(game:HttpGet("https://pastebin.com/raw/sthXfBdm"))()
+end)
 --re-install the script if it doesn't work from the GitHub: https://github.com/kreekman/Part-Deletor
 
 

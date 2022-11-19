@@ -1,4 +1,4 @@
-Note: Pastebin script now works! Feel free to use both GitHub or Pastebin scripts.
+Note: Pastebin script now works! Feel free to use both GitHub or Pastebin scripts. PLEASE RE-INSTALL SCRIPTS. I HAVE ACCIDENTALLY DELETED THE GITHUB RAW LMAO
 
 # Part-Deletor
 Part Deletor is a Roblox exploit that allows players to delete any baseparts locally in a Roblox game.
@@ -25,4 +25,4 @@ Note: If HttpGet fails, try injecting the RAW script (though won't auto update).
 # RAW code (obfuscated)
 Pastebin: https://pastebin.com/raw/sthXfBdm
 
-GitHub: https://raw.githubusercontent.com/kreekman/Part-Deletor/main/RAW%20code%20(Obfuscated).lua
+GitHub: https://raw.githubusercontent.com/kreekman/Part-Deletor/main/RAW%20PartDeletor.lua

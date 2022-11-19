@@ -8,6 +8,7 @@ Part Deletor is a Roblox exploit that allows players to delete any baseparts loc
 4) Press "X" (or whatever you set as the Delete Key) on a keyboard.
 
 Video: Coming Soon!
+
 Unfortunately, mobile devices are not supported for this exploit.
 
 # Features:
@@ -21,4 +22,5 @@ Note: If HttpGet fails, try injecting the RAW script (though won't auto update).
 
 #RAW code (obfuscated)
 Pastebin: https://pastebin.com/raw/sthXfBdm
+
 GitHub: https://raw.githubusercontent.com/kreekman/Part-Deletor/main/RAW%20code%20(Obfuscated).lua

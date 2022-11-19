@@ -19,6 +19,7 @@ Unfortunately, mobile devices are not supported for this exploit.
 3) Toggle UI - Editable keybind to hide and show the UI
 4) Delete key - Input that deletes the desired part
 5) Toggle status - Input that turns the hack on/off
+6) Copy - Pastes the link to this GitHub page into your clipboard
 
 Note: If HttpGet fails, try injecting the RAW script (though won't auto update).
 

@@ -3,6 +3,8 @@ Note: Pastebin script now works! Feel free to use both GitHub or Pastebin script
 # Part-Deletor
 Part Deletor is a Roblox exploit that allows players to delete any baseparts locally in a Roblox game.
 
+![Part Remover](https://user-images.githubusercontent.com/118077319/202921490-d0017834-7d3d-4159-bff2-3faa29c5e834.png)
+
 # How to use:
 1) Inject the script using any injector ([GITHUB/PASTEBIN] PartDeletor.Lua)
 2) Toggle the UI status

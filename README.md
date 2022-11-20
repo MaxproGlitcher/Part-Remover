@@ -1,6 +1,6 @@
 Note: Pastebin script now works! Feel free to use both GitHub or Pastebin scripts. PLEASE RE-INSTALL SCRIPTS. I HAVE ACCIDENTALLY DELETED THE GITHUB RAW LMAO
 
-# Part-Deletor
+# Part-Remover
 Part Deletor is a Roblox exploit that allows players to delete any baseparts locally in a Roblox game.
 
 ![Part Remover](https://user-images.githubusercontent.com/118077319/202921490-d0017834-7d3d-4159-bff2-3faa29c5e834.png)

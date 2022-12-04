@@ -23,6 +23,7 @@ Unfortunately, mobile devices are not supported for this exploit.
 5) Toggle status - Input that turns the hack on/off
 6) Copy - Pastes the link to this GitHub page into your clipboard
 7) Filter - Don't delete (ignore) or only delete (focus) parts sharing the specified names in any of the boxes.
+8) Size - Resize UI between 25% and 200%
 
 Note: If HttpGet fails, try injecting the RAW script (though won't auto update).
 
